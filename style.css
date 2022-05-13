@@ -1,0 +1,33 @@
+body {
+    font-family: 'Calibri', sans-serif;
+    background-color: rgb(192, 221, 255);
+}
+
+.navbar-brand {
+    font-size: 2.25em;
+}
+
+.nav-item {
+    font-size: 1.5em;
+}
+
+.noBullet {
+    list-style-type: none;
+}
+
+.navbar {
+    background-color: rgb(125, 165, 211);
+}
+
+a:link {
+    color: rgb(21, 45, 73);
+}
+
+a:visited {
+    color: rgb(21, 45, 73);
+}
+
+img {
+    max-width: 275px;
+    max-height: auto;
+}
