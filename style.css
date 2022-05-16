@@ -31,3 +31,7 @@ img {
     max-width: 275px;
     max-height: auto;
 }
+
+strong {
+    font-size: 1.25em;
+}
